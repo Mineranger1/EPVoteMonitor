@@ -1,0 +1,9 @@
+pandas
+requests
+beautifulsoup4
+numpy
+pycountry
+openpyxl
+fuzzywuzzy
+matplotlib
+seaborn
