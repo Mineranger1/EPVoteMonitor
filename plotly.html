@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Voting Analysis App</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+</head>
+<body>
+
+<div>
+    <!-- Dataset Selection -->
+    <label for="dataset-select">Select Dataset:</label>
+    <select id="dataset-select">
+        <option value="" disabled selected>Select a dataset</option>
+        <option value="Results/votes_plotly_6.csv">EP6</option>
+        <option value="Results/votes_plotly_7.csv">EP7</option>
+        <option value="Results/votes_plotly_8.csv">EP8</option>
+        <option value="Results/votes_plotly_9.csv">EP9</option>
+    </select>
+    <button id="load-data-button">Load Data</button>
+</div>
+
+<div>
+    <!-- Filter Dropdowns -->
+    <label for="country-select">Country:</label>
+    <select id="country-select" disabled>
+        <option value="All">All</option>
+    </select>
+
+    <label for="epg-select">EPG:</label>
+    <select id="epg-select" disabled>
+        <option value="All">All</option>
+    </select>
+
+    <label for="gender-select">Gender:</label>
+    <select id="gender-select" disabled>
+        <option value="All">All</option>
+    </select>
+</div>
+
+<div id="filter-buttons"></div>
+<div id="chart"></div>
+
+<script>
+    let currentData = [];
+
+    // Load the data when the button is clicked
+    document.getElementById('load-data-button').onclick = function() {
+        const datasetPath = document.getElementById('dataset-select').value;
+
+        if (datasetPath) {
+            d3.csv(datasetPath).then(function(data) {
+                currentData = data;
+                console.log('Data loaded:', data);
+                initializeDropdowns(data);
+                initializeCategoryButtons(data);
+            }).catch(function(error) {
+                console.error('Error loading dataset:', error);
+            });
+        } else {
+            alert('Please select a dataset first.');
+        }
+    };
+
+    // Initialize dropdowns with unique values from the dataset
+    function initializeDropdowns(data) {
+        const countries = [...new Set(data.map(d => d.Country))];
+        const epgs = [...new Set(data.map(d => d.EPG))];
+        const genders = [...new Set(data.map(d => d.Gender))];
+
+        populateDropdown('country-select', countries);
+        populateDropdown('epg-select', epgs);
+        populateDropdown('gender-select', genders);
+
+        // Enable dropdowns after data is loaded
+        document.getElementById('country-select').disabled = false;
+        document.getElementById('epg-select').disabled = false;
+        document.getElementById('gender-select').disabled = false;
+    }
+
+    // Populate a dropdown with options
+    function populateDropdown(id, options) {
+        const dropdown = document.getElementById(id);
+        dropdown.innerHTML = '<option value="All">All</option>'; // Reset dropdown
+
+        options.forEach(option => {
+            let opt = document.createElement('option');
+            opt.value = option;
+            opt.innerHTML = option;
+            dropdown.appendChild(opt);
+        });
+
+        dropdown.onchange = updateFilteredData;
+    }
+
+    // Get filtered data based on selected criteria
+    function getFilteredData() {
+        let selectedCountry = document.getElementById('country-select').value;
+        let selectedEPG = document.getElementById('epg-select').value;
+        let selectedGender = document.getElementById('gender-select').value;
+
+        let filteredData = currentData.filter(d => {
+            return (selectedCountry === 'All' || d.Country === selectedCountry) &&
+                   (selectedEPG === 'All' || d.EPG === selectedEPG) &&
+                   (selectedGender === 'All' || d.Gender === selectedGender);
+        });
+
+        console.log('Filtered data:', filteredData);
+        return filteredData;
+    }
+
+    // Update chart when filters are applied
+    function updateFilteredData() {
+        let filteredData = getFilteredData();
+        initializeCategoryButtons(filteredData);
+    }
+
+    // Initialize category buttons (Country, EPG, Gender)
+    function initializeCategoryButtons(data) {
+        const categories = ['Country', 'EPG', 'Gender'];
+        const buttonContainer = document.getElementById('filter-buttons');
+        buttonContainer.innerHTML = ''; // Clear previous buttons
+
+        categories.forEach(category => {
+            let button = document.createElement('button');
+            button.innerHTML = category;
+            button.onclick = function() {
+                let proportions = calculateProportions(data, category);
+                updateChart(proportions, category);
+            };
+            buttonContainer.appendChild(button);
+        });
+
+        // Automatically show chart for the first category
+        let initialCategory = categories[0];
+        let initialProportions = calculateProportions(data, initialCategory);
+        updateChart(initialProportions, initialCategory);
+    }
+
+    // Calculate proportions for a specific category
+    function calculateProportions(data, category) {
+        let totalCounts = d3.rollup(data, v => v.length, d => d[category]);
+        let vote4Counts = d3.rollup(data.filter(d => d['Vote'] == '4'), v => v.length, d => d[category]);
+
+        let proportions = [];
+        totalCounts.forEach((total, key) => {
+            let proportion = (vote4Counts.get(key) || 0) / total;
+            proportions.push({category: key, proportion: proportion});
+        });
+
+        console.log('Proportions for', category, ':', proportions);
+        return proportions;
+    }
+
+    // Update the chart with new data
+    function updateChart(proportions, category) {
+        let trace = {
+            x: proportions.map(d => d.category),
+            y: proportions.map(d => d.proportion),
+            type: 'bar'
+        };
+
+        let layout = {
+            title: `Proportion of missing votes by ${category}`,
+            xaxis: {title: category},
+            yaxis: {title: 'Proportion'}
+        };
+
+        Plotly.newPlot('chart', [trace], layout);
+    }
+</script>
+
+</body>
+</html>
