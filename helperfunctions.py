@@ -6,20 +6,14 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 import calendar
 from bs4 import BeautifulSoup
-from selenium import webdriver
-from selenium.common.exceptions import TimeoutException
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.chrome.options import Options as ChromeOptions
+
 from tempfile import mkdtemp
 import time
 import numpy as np
 import pycountry
 import os
 from concurrent.futures import ThreadPoolExecutor, as_completed
-import boto3
-from botocore.exceptions import NoCredentialsError, PartialCredentialsError
 from io import StringIO
-from sqlalchemy import create_engine
 
 
 def get_meetings(year, month):

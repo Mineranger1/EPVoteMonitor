@@ -7,3 +7,6 @@ openpyxl
 fuzzywuzzy
 matplotlib
 seaborn
+scikit-learn
+python-levenshtein
+
