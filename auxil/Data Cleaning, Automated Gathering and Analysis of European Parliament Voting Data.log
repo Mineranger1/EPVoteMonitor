@@ -1,10 +1,13 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.13)  3 OCT 2024 01:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.13)  8 OCT 2024 23:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**./test.tex
-(test.tex
+**"./Data Cleaning, Automated Gathering and Analysis of European Parliament Vot
+ing Data.tex"
+
+(Data Cleaning, Automated Gathering and Analysis of European Parliament Voting 
+Data.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -61,8 +64,11 @@ ex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count196
 \l__pdf_internal_box=\box53
-) (C:/Users\User\Documents\GitHub\EPVoteMonitor\auxil\test.aux)
-\openout1 = `test.aux'.
+)
+(C:/Users\User\Documents\GitHub\EPVoteMonitor\auxil\Data Cleaning, Automated Ga
+thering and Analysis of European Parliament Voting Data.aux)
+\openout1 = `"Data Cleaning, Automated Gathering and Analysis of European Parli
+ament Voting Data.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
@@ -118,7 +124,8 @@ Package pdftex.def Info: Graphs/Datapoints.png  used on input line 72.
 (pdftex.def)             Requested size: 276.00105pt x 260.08293pt.
 
 [1 <./Graphs/short_table9.png>]
-test.tex:89: Undefined control sequence.
+Data Cleaning, Automated Gathering and Analysis of European Parliament Voting D
+ata.tex:89: Undefined control sequence.
 l.89         \itemInconsistent
                                Naming Conventions: MEP names and surnames we...
 The control sequence at the end of the top line
@@ -127,7 +134,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-test.tex:97: Undefined control sequence.
+Data Cleaning, Automated Gathering and Analysis of European Parliament Voting D
+ata.tex:97: Undefined control sequence.
 l.97         \itemNon
                      -Standard Encoding of Binary Categorical Variables: For...
 The control sequence at the end of the top line
@@ -146,45 +154,47 @@ Package pdftex.def Info: Graphs/WNOMINATE2d.png  used on input line 243.
 <Graphs/emIRT.png, id=39, 722.7pt x 433.62pt>
 File: Graphs/emIRT.png Graphic file (type png)
 <use Graphs/emIRT.png>
-Package pdftex.def Info: Graphs/emIRT.png  used on input line 269.
+Package pdftex.def Info: Graphs/emIRT.png  used on input line 270.
 (pdftex.def)             Requested size: 345.0pt x 206.9972pt.
 
 [8 <./Graphs/emIRT.png>]
 <Graphs/genderreport.png, id=44, 722.7pt x 722.7pt>
 File: Graphs/genderreport.png Graphic file (type png)
 <use Graphs/genderreport.png>
-Package pdftex.def Info: Graphs/genderreport.png  used on input line 300.
+Package pdftex.def Info: Graphs/genderreport.png  used on input line 302.
 (pdftex.def)             Requested size: 345.0pt x 344.99533pt.
 <Graphs/proportions_report.png, id=45, 867.24pt x 867.24pt>
 File: Graphs/proportions_report.png Graphic file (type png)
 <use Graphs/proportions_report.png>
-Package pdftex.def Info: Graphs/proportions_report.png  used on input line 321.
+Package pdftex.def Info: Graphs/proportions_report.png  used on input line 323.
 
 (pdftex.def)             Requested size: 345.0pt x 344.99754pt.
  [9] [10 <./Graphs/genderreport.png>] [11 <./Graphs/proportions_report.png>] [1
 2]
-(C:/Users\User\Documents\GitHub\EPVoteMonitor\auxil\test.aux)
+(C:/Users\User\Documents\GitHub\EPVoteMonitor\auxil\Data Cleaning, Automated Ga
+thering and Analysis of European Parliament Voting Data.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1405 strings out of 474486
- 24239 string characters out of 5744227
+ 1406 strings out of 474486
+ 25357 string characters out of 5744227
  1933542 words of memory out of 5000000
- 23728 multiletter control sequences out of 15000+600000
+ 23729 multiletter control sequences out of 15000+600000
  560221 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,7n,65p,241b,236s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,7n,65p,321b,236s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
 000.pk><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmbx12.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmr10.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/font
 s/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on C:/Users\User\Documents\GitHub\EPVoteMonitor\out\test.pdf (13
- pages, 854486 bytes).
+Output written on "C:/Users\User\Documents\GitHub\EPVoteMonitor\out\Data Cleani
+ng, Automated Gathering and Analysis of European Parliament Voting Data.pdf" (1
+3 pages, 854495 bytes).
 PDF statistics:
  83 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
