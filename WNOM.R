@@ -37,7 +37,8 @@ p61d <- ggplot(legislators61d, aes(x = coord1D, y = coord2D, color = EPG, label 
   scale_color_discrete(name = "EPG Labels")
 
 ggsave(filename = here("Results", "EP6", "W_Nominate_Plot_EP6_1d.png"), plot = p61d)
-
+write.csv(legislators6, file = here("Results", "EP6", "wnominate6.csv"), row.names = FALSE)
+write.csv(legislators61d, file = here("Results", "EP6", "wnominate61d.csv"), row.names = FALSE)
 result7<-wnominate(rc7,polarity=c(1,1))
 summary(result7) 
 
@@ -74,7 +75,8 @@ p71d <- ggplot(legislators71d, aes(x = coord1D, y = coord2D, color = EPG, label 
        y = "") +
   theme_minimal() +
   scale_color_discrete(name = "EPG Labels")
-
+write.csv(legislators7, file = here("Results", "EP7", "wnominate71d.csv"), row.names = FALSE)
+write.csv(legislators71d, file = here("Results", "EP7", "wnominate71d.csv"), row.names = FALSE)
 ggsave(filename = here("Results", "EP7", "W_Nominate_Plot_EP7_1d.png"), plot = p71d)
 
 votesEP8[] <- lapply(votesEP8, function(x) ifelse(x %in% 0:3, x, 3))
@@ -116,7 +118,10 @@ p81d <- ggplot(legislators81d, aes(x = coord1D, y = coord2D, color = EPG, label 
        y = "") +
   theme_minimal() +
   scale_color_discrete(name = "EPG Labels")
-
+write.csv(legislators8, file = here("Results", "EP8", "wnominate8.csv"), row.names = FALSE)
+write.csv(legislators81d, file = here("Results", "EP8", "wnominate81d
+                                      
+                                      .csv"), row.names = FALSE)
 ggsave(filename = here("Results", "EP8", "W_Nominate_Plot_EP8_1d.png"), plot = p81d)
 votesEP9[] <- lapply(votesEP9, function(x) ifelse(x %in% 0:3, x, 3))
 rc9 <- rollcall(votesEP9, yea = 1 , nay = 2 , missing = 3,notInLegis = 0,legis.names=names9,legis.data = legData9,desc="EP9")
