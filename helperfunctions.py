@@ -677,6 +677,18 @@ def get_epg(mep_id, df, date):
         ]
     return epg_info['org_label'].iloc[0] if not epg_info.empty else np.NaN
 
+def get_epg_rowwise(row, df):
+    mep_id = row['MepId']
+    start_date = pd.to_datetime(row['Start']
+    end_date = row['End']
+
+    epg_info = df[
+        (df['identifier'].astype(str) == str(mep_id)) &
+        (df['membershipClassification'] == "def/ep-entities/EU_POLITICAL_GROUP") &
+        (df['memberDuring.startDate'] <= start_date) &
+        ((df['memberDuring.endDate'].isna()) | (df['memberDuring.endDate'] >= end_date))
+        ]
+    return epg_info['org_label'].iloc[0] if not epg_info.empty else np.nan
 
 def get_start_date(mep_id, df, ep_number):
     start_date_info = df[
@@ -741,6 +753,19 @@ def get_mep_database(mep_df, memberships_df):
     mep_df['MepId'] = temp_df['MepId'].astype("Int64")
     mep_df['Fname'] = temp_df['Fname'].astype("str")
     mep_df['Lname'] = temp_df['Lname'].astype("str")
+    mep_df['FullName'] = temp_df['FullName'].astype("str")
+    mep_df['Birthday'] = temp_df['MepId'].apply(extract_birthday, df=memberships_df).astype("datetime64[ns]")
+    mep_df['Gender'] = temp_df['MepId'].apply(extract_gender, df=memberships_df).astype("str")
+    mep_df['Country'] = temp_df['MepId'].apply(get_country, df=memberships_df).astype("str")
+    return mep_df
+
+def get_mep_database2(mep_df, memberships_df):
+    temp_df = mep_df.copy()
+    mep_df = mep_df.copy()
+    mep_df['MepId'] = temp_df['MepId'].astype("Int64")
+    mep_df['Fname'] = temp_df['Fname'].astype("str")
+    mep_df['Lname'] = temp_df['Lname'].astype("str")
+    mep_df['EPG'] = temp_df.apply(get_epg_rowwise, df=memberships_df, axis=1)
     mep_df['FullName'] = temp_df['FullName'].astype("str")
     mep_df['Birthday'] = temp_df['MepId'].apply(extract_birthday, df=memberships_df).astype("datetime64[ns]")
     mep_df['Gender'] = temp_df['MepId'].apply(extract_gender, df=memberships_df).astype("str")
