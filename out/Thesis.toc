@@ -1,0 +1,44 @@
+\contentsline {chapter}{\numberline {1}Introduction}{3}{}%
+\contentsline {section}{\numberline {1.1}Dataset Structure and Initial Challenges}{3}{}%
+\contentsline {chapter}{\numberline {2}Data Cleaning Process}{6}{}%
+\contentsline {section}{\numberline {2.1}Supplementing and Correcting the MepInfo Dataset}{6}{}%
+\contentsline {section}{\numberline {2.2}Addressing Inconsistencies in the Votings Dataset}{7}{}%
+\contentsline {section}{\numberline {2.3}Data Restructuring for Long-Term Usability}{7}{}%
+\contentsline {chapter}{\numberline {3}Automation of Data Gathering}{9}{}%
+\contentsline {section}{\numberline {3.1}Overview of the European Parliament API}{9}{}%
+\contentsline {section}{\numberline {3.2}MepInfo Data Collection Automation}{9}{}%
+\contentsline {section}{\numberline {3.3}Votings Data Collection Automation}{10}{}%
+\contentsline {chapter}{\numberline {4}Ideal Points Estimation - Overview of Current Methods}{11}{}%
+\contentsline {section}{\numberline {4.1}WNOMINATE}{11}{}%
+\contentsline {subsection}{\numberline {4.1.1}Algorithm}{11}{}%
+\contentsline {subsection}{\numberline {4.1.2}Initialization}{12}{}%
+\contentsline {subsection}{\numberline {4.1.3}Implementation}{13}{}%
+\contentsline {section}{\numberline {4.2}emIRT}{13}{}%
+\contentsline {subsection}{\numberline {4.2.1}Algorithm}{13}{}%
+\contentsline {subsection}{\numberline {4.2.2}Initialization}{14}{}%
+\contentsline {subsection}{\numberline {4.2.3}Implementation}{14}{}%
+\contentsline {chapter}{\numberline {5}Ideal points estimation - using the software (very much working name)}{15}{}%
+\contentsline {section}{\numberline {5.1}Reproduction of results in Hix & Noury 2009}{15}{}%
+\contentsline {subsection}{\numberline {5.1.1}Workflow reproduction}{15}{}%
+\contentsline {section}{\numberline {5.2}Comparison of one-dimensional ideal points methods}{19}{}%
+\contentsline {subsection}{\numberline {5.2.1}emIRT}{19}{}%
+\contentsline {subsection}{\numberline {5.2.2}WNOMINATE}{19}{}%
+\contentsline {subsection}{\numberline {5.2.3}Comparison}{19}{}%
+\contentsline {section}{\numberline {5.3}Initialization research}{19}{}%
+\contentsline {subsection}{\numberline {5.3.1}Obtaining the starting values of WNOMIANTE}{20}{}%
+\contentsline {subsection}{\numberline {5.3.2}Initializing emIRT with WNOMINATE starts}{20}{}%
+\contentsline {subsection}{\numberline {5.3.3}Comparing the results}{20}{}%
+\contentsline {section}{\numberline {5.4}High-dimensional ideal points}{20}{}%
+\contentsline {subsection}{\numberline {5.4.1}Obtaining the ideal points using WNOMINATE}{20}{}%
+\contentsline {subsection}{\numberline {5.4.2}Interpretation of dimensions}{20}{}%
+\contentsline {section}{\numberline {5.5}Principal Component Analysis}{20}{}%
+\contentsline {subsection}{\numberline {5.5.1}Comapring with starting points of WNOMINATE}{20}{}%
+\contentsline {subsection}{\numberline {5.5.2}Using Procrustes Rotation for high-dimensional comparison}{20}{}%
+\contentsline {chapter}{\numberline {6}Analysing the structure of missing data}{21}{}%
+\contentsline {section}{\numberline {6.1}Overview of missing data}{21}{}%
+\contentsline {subsection}{\numberline {6.1.1}Types of missing data in the dataset}{21}{}%
+\contentsline {subsection}{\numberline {6.1.2}Describing the missingess}{21}{}%
+\contentsline {section}{\numberline {6.2}Impact of ideology on missingness}{21}{}%
+\contentsline {subsection}{\numberline {6.2.1}Model}{21}{}%
+\contentsline {subsection}{\numberline {6.2.2}Results}{21}{}%
+\contentsline {chapter}{\numberline {7}Conclusions}{22}{}%
