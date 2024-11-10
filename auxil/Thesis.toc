@@ -20,18 +20,18 @@
 \contentsline {chapter}{\numberline {5}Ideal points estimation - using the software (very much working name)}{15}{}%
 \contentsline {section}{\numberline {5.1}Reproduction of results in Hix & Noury 2009}{15}{}%
 \contentsline {subsection}{\numberline {5.1.1}Workflow reproduction}{15}{}%
-\contentsline {section}{\numberline {5.2}Comparison of one-dimensional ideal points methods}{18}{}%
-\contentsline {subsection}{\numberline {5.2.1}emIRT}{18}{}%
+\contentsline {section}{\numberline {5.2}Comparison of one-dimensional ideal points methods}{19}{}%
+\contentsline {subsection}{\numberline {5.2.1}emIRT}{19}{}%
 \contentsline {subsection}{\numberline {5.2.2}WNOMINATE}{19}{}%
 \contentsline {subsection}{\numberline {5.2.3}Comparison}{19}{}%
 \contentsline {section}{\numberline {5.3}Initialization research}{19}{}%
-\contentsline {subsection}{\numberline {5.3.1}Obtaining the starting values of WNOMIANTE}{19}{}%
-\contentsline {subsection}{\numberline {5.3.2}Initializing emIRT with WNOMINATE starts}{19}{}%
-\contentsline {subsection}{\numberline {5.3.3}Comparing the results}{19}{}%
-\contentsline {section}{\numberline {5.4}High-dimensional ideal points}{19}{}%
-\contentsline {subsection}{\numberline {5.4.1}Obtaining the ideal points using WNOMINATE}{19}{}%
-\contentsline {subsection}{\numberline {5.4.2}Interpretation of dimensions}{19}{}%
-\contentsline {section}{\numberline {5.5}Principal Component Analysis}{19}{}%
+\contentsline {subsection}{\numberline {5.3.1}Obtaining the starting values of WNOMIANTE}{20}{}%
+\contentsline {subsection}{\numberline {5.3.2}Initializing emIRT with WNOMINATE starts}{20}{}%
+\contentsline {subsection}{\numberline {5.3.3}Comparing the results}{20}{}%
+\contentsline {section}{\numberline {5.4}High-dimensional ideal points}{20}{}%
+\contentsline {subsection}{\numberline {5.4.1}Obtaining the ideal points using WNOMINATE}{20}{}%
+\contentsline {subsection}{\numberline {5.4.2}Interpretation of dimensions}{20}{}%
+\contentsline {section}{\numberline {5.5}Principal Component Analysis}{20}{}%
 \contentsline {subsection}{\numberline {5.5.1}Comapring with starting points of WNOMINATE}{20}{}%
 \contentsline {subsection}{\numberline {5.5.2}Using Procrustes Rotation for high-dimensional comparison}{20}{}%
 \contentsline {chapter}{\numberline {6}Analysing the structure of missing data}{21}{}%

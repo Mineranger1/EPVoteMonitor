@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.13)  5 NOV 2024 19:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.13)  7 NOV 2024 21:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -130,7 +130,7 @@ ex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count275
 \l__pdf_internal_box=\box55
-) (C:/Users\User\Documents\GitHub\EPVoteMonitor\auxil\Thesis.aux)
+) (C:/Users\User\Documents\GitHub\EPVoteMonitor\out\Thesis.aux)
 \openout1 = `Thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -210,9 +210,9 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 )) [1
 
 {C:/Users/User/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-[1] (C:/Users\User\Documents\GitHub\EPVoteMonitor\auxil\Thesis.toc
-C:/Users\User\Documents\GitHub\EPVoteMonitor\auxil\Thesis.toc:21: Misplaced ali
-gnment tab character &.
+[1] (C:/Users\User\Documents\GitHub\EPVoteMonitor\out\Thesis.toc
+C:/Users\User\Documents\GitHub\EPVoteMonitor\out\Thesis.toc:21: Misplaced align
+ment tab character &.
 <argument> ...5.1}Reproduction of results in Hix &
                                                    Noury 2009
 l.21 ...tion of results in Hix & Noury 2009}{15}{}
@@ -264,10 +264,10 @@ ion, W-NOMINATE
 
 ] [12] [13] [14]
 Chapter 5.
-Thesis.tex:459: Misplaced alignment tab character &.
+Thesis.tex:461: Misplaced alignment tab character &.
 <argument> Reproduction of results in Hix &
                                             Noury 2009
-l.459 ...roduction of results in Hix & Noury 2009}
+l.461 ...roduction of results in Hix & Noury 2009}
                                                   
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -276,8 +276,8 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-Thesis.tex:461: Misplaced alignment tab character &.
-l.461 ... EP6 to EP9. The publications where Hix &
+Thesis.tex:463: Misplaced alignment tab character &.
+l.463 ... EP6 to EP9. The publications where Hix &
                                                    Noury
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -286,9 +286,9 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-Thesis.tex:463: Misplaced alignment tab character &.
-l.463 ...P6 (later publications, like Hix, Noury &
-                                                   Rolland (2018) do not
+Thesis.tex:465: Misplaced alignment tab character &.
+l.465 ...P6 (later publications, like Hix, Noury &
+                                                   Rolland (2018) do
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -299,33 +299,17 @@ might try typing `S' now just to see what is salvageable.
 [15
 
 ]
-Thesis.tex:487: Misplaced alignment tab character &.
-l.487 ...mparable to the results achieved by Hix &
-                                                   Noury.
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-<Graphs/WNOMINATE2d.png, id=71, 578.16pt x 578.16pt>
-File: Graphs/WNOMINATE2d.png Graphic file (type png)
-<use Graphs/WNOMINATE2d.png>
-Package pdftex.def Info: Graphs/WNOMINATE2d.png  used on input line 491.
-(pdftex.def)             Requested size: 345.0pt x 344.99312pt.
-[16]
-<Graphs/Screenshot 2024-06-09 220607.png, id=75, 542.025pt x 478.78876pt>
+<Graphs/Screenshot 2024-06-09 220607.png, id=71, 542.025pt x 478.78876pt>
 File: Graphs/Screenshot 2024-06-09 220607.png Graphic file (type png)
 <use Graphs/Screenshot 2024-06-09 220607.png>
 Package pdftex.def Info: Graphs/Screenshot 2024-06-09 220607.png  used on input
- line 498.
+ line 493.
 (pdftex.def)             Requested size: 345.0pt x 304.75804pt.
 
-Thesis.tex:499: Misplaced alignment tab character &.
-<argument> ...es Ideal points estimates from Hix &
-                                                   Noury (2009)
-l.499 ...points estimates from Hix & Noury (2009)}
+Thesis.tex:494: Misplaced alignment tab character &.
+<argument> ...ces Ideal points estimates from Hix&
+                                                  Noury (2009)
+l.494 ...l points estimates from Hix&Noury (2009)}
                                                   
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -334,32 +318,87 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
+Thesis.tex:515: Misplaced alignment tab character &.
+l.515 ...mparable to the results achieved by Hix &
+                                                   Noury.
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[16 <./Graphs/Screenshot 2024-06-09 220607.png>]
+<Graphs/WNOMINATE2d.png, id=76, 578.16pt x 578.16pt>
+File: Graphs/WNOMINATE2d.png Graphic file (type png)
+<use Graphs/WNOMINATE2d.png>
+Package pdftex.def Info: Graphs/WNOMINATE2d.png  used on input line 520.
+(pdftex.def)             Requested size: 345.0pt x 344.99312pt.
+
+Thesis.tex:527: Undefined control sequence.
+l.527                 \susbection
+                                 {Comparison of results}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Thesis.tex:528: Misplaced alignment tab character &.
+l.528 ... results we achieved to the ones of Hix &
+                                                   Noury (2009) we would need
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
 [17 <./Graphs/WNOMINATE2d.png>]
-Thesis.tex:503: Undefined control sequence.
-l.503     \susbection
-                     {Comparison of results}
+<Graphs/WNOMINATEflipped2d.png, id=82, 578.16pt x 578.16pt>
+File: Graphs/WNOMINATEflipped2d.png Graphic file (type png)
+<use Graphs/WNOMINATEflipped2d.png>
+Package pdftex.def Info: Graphs/WNOMINATEflipped2d.png  used on input line 540.
+
+(pdftex.def)             Requested size: 345.0pt x 344.99312pt.
+
+Thesis.tex:553: Misplaced alignment tab character &.
+l.553 ...rms of ideal points than the one in Hix &
+                                                   Noury (2009) as a 'conser...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[18 <./Graphs/WNOMINATEflipped2d.png>]
+Thesis.tex:567: Misplaced alignment tab character &.
+l.567 ...on of the workflow that was used in Hix &
+                                                   Nouury (2009). This
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[19]
+Thesis.tex:616: Undefined control sequence.
+l.616             \susbection
+                             {Obtaining ideal points estimates using PCA}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[18 <./Graphs/Screenshot 2024-06-09 220607.png>]
-Thesis.tex:551: Undefined control sequence.
-l.551     \susbection
-                     {Obtaining ideal points estimates using PCA}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-
-Overfull \hbox (4.45288pt too wide) in paragraph at lines 555--555
+Overfull \hbox (4.45288pt too wide) in paragraph at lines 620--620
 []\OT1/cmr/bx/n/12 Using Pro-crustes Ro-ta-tion for high-dimensional com-
  []
 
-[19] [20]
+[20]
 Chapter 6.
 [21
 
@@ -367,24 +406,20 @@ Chapter 6.
 Chapter 7.
 [22
 
-] (C:/Users\User\Documents\GitHub\EPVoteMonitor\auxil\Thesis.aux)
+] (C:/Users\User\Documents\GitHub\EPVoteMonitor\out\Thesis.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 2706 strings out of 474486
- 44826 string characters out of 5744227
+ 2714 strings out of 474486
+ 45088 string characters out of 5744227
  1935542 words of memory out of 5000000
- 24976 multiletter control sequences out of 15000+600000
+ 24984 multiletter control sequences out of 15000+600000
  561756 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,7n,69p,218b,245s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 61i,7n,69p,248b,245s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
 000.pk><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/
@@ -399,9 +434,9 @@ r/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/U
 sers/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.p
 fb>
 Output written on C:/Users\User\Documents\GitHub\EPVoteMonitor\out\Thesis.pdf (
-24 pages, 885024 bytes).
+24 pages, 1182318 bytes).
 PDF statistics:
- 143 PDF objects out of 1000 (max. 8388607)
+ 145 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
