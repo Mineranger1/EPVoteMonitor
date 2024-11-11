@@ -1,0 +1,69 @@
+\begin{thebibliography}{10}
+
+\bibitem{hix_2022_votewatch}
+Simon Hix.
+\newblock Votewatch – simon hix, 2022.
+
+\bibitem{hix_2009_after}
+Simon Hix and Abdul Noury.
+\newblock After enlargement: Voting patterns in the sixth european parliament.
+\newblock {\em Legislative Studies Quarterly}, 34:159--174, 2009.
+
+\bibitem{hix_2015_governmentopposition}
+Simon Hix and Abdul Noury.
+\newblock Government-opposition or left-right? the institutional determinants
+  of voting in legislatures.
+\newblock {\em Political Science Research and Methods}, 4:249--273, 06 2015.
+
+\bibitem{hix_2006_dimensions}
+Simon Hix, Abdul Noury, and Gerard Roland.
+\newblock Dimensions of politics in the european parliament.
+\newblock {\em American Journal of Political Science}, 50:494--520, 04 2006.
+
+\bibitem{hix_2018_the}
+Simon Hix, Abdul Noury, and Gérard Roland.
+\newblock The changing battle lines in the european parliament, 2018.
+
+\bibitem{imai_2016_fast}
+Kosuke Imai, James Lo, and Johnatan Olmsted.
+\newblock Fast estimation of ideal points with massive data.
+\newblock {\em American Political Science Review}, 110:631--656, 11 2016.
+
+\bibitem{imai_2024_package}
+Kosuke Imai, James Lo, and Jonathan Olsted.
+\newblock Package 'emirt' em algorithms for estimating item response theory
+  models documentation.
+\newblock 2024.
+
+\bibitem{lever_2017_principal}
+Jake Lever, Martin Krzywinski, and Naomi Altman.
+\newblock Principal component analysis.
+\newblock {\em Nature Methods}, 14:641–642, 07 2017.
+
+\bibitem{lo_2018_dynamic}
+James Lo.
+\newblock Dynamic ideal point estimation for the european parliament,
+  1980–2009.
+\newblock {\em Public Choice}, 176:229--246, 05 2018.
+
+\bibitem{lo_2024_using}
+James Lo.
+\newblock Using w-nominate in r, 2024.
+
+\bibitem{poole_2008_nominate}
+Keith~T. Poole.
+\newblock Nominate: A short intellectual history.
+\newblock {\em SSRN Electronic Journal}, 2008.
+
+\bibitem{poole_1985_a}
+Keith~T. Poole and Howard Rosenthal.
+\newblock A spatial model for legislative roll call analysis.
+\newblock {\em American Journal of Political Science}, 29:357, 05 1985.
+
+\bibitem{poole_2001_dnominate}
+Keith~T. Poole and Howard Rosenthal.
+\newblock D-nominate after 10 years: A comparative update to congress: A
+  political-economic history of roll-call voting.
+\newblock {\em Legislative Studies Quarterly}, 26:5, 02 2001.
+
+\end{thebibliography}

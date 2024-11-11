@@ -1,229 +1,208 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.13)  10 NOV 2024 21:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.12)  11 NOV 2024 13:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **./TS3162942.tex
 (TS3162942.tex
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-04>
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
-Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
-File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-08-30>
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2024/02/08 v1.4n Standard LaTeX document class
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count187
-\c@chapter=\count188
-\c@section=\count189
-\c@subsection=\count190
-\c@subsubsection=\count191
-\c@paragraph=\count192
-\c@subparagraph=\count193
-\c@figure=\count194
-\c@table=\count195
-\abovecaptionskip=\skip48
-\belowcaptionskip=\skip49
-\bibindent=\dimen140
+\c@part=\count194
+\c@chapter=\count195
+\c@section=\count196
+\c@subsection=\count197
+\c@subsubsection=\count198
+\c@paragraph=\count199
+\c@subparagraph=\count266
+\c@figure=\count267
+\c@table=\count268
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
 )
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
-Package: inputenc 2021/02/14 v1.3d Input encoding file
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
 )
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count196
-\Gm@cntv=\count197
-\c@Gm@tempcnt=\count198
-\Gm@bindingoffset=\dimen141
-\Gm@wd@mp=\dimen142
-\Gm@odd@mp=\dimen143
-\Gm@even@mp=\dimen144
-\Gm@layoutwidth=\dimen145
-\Gm@layoutheight=\dimen146
-\Gm@layouthoffset=\dimen147
-\Gm@layoutvoffset=\dimen148
+\Gm@cnth=\count269
+\Gm@cntv=\count270
+\c@Gm@tempcnt=\count271
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
 \Gm@dimlist=\toks20
 
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and foote
 rs
-\f@nch@headwidth=\skip50
-\f@nch@O@elh=\skip51
-\f@nch@O@erh=\skip52
-\f@nch@O@olh=\skip53
-\f@nch@O@orh=\skip54
-\f@nch@O@elf=\skip55
-\f@nch@O@erf=\skip56
-\f@nch@O@olf=\skip57
-\f@nch@O@orf=\skip58
+\f@nch@headwidth=\skip51
+\f@nch@O@elh=\skip52
+\f@nch@O@erh=\skip53
+\f@nch@O@olh=\skip54
+\f@nch@O@orh=\skip55
+\f@nch@O@elf=\skip56
+\f@nch@O@erf=\skip57
+\f@nch@O@olf=\skip58
+\f@nch@O@orf=\skip59
 )
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2023/10/27 v2.16 Sectioning titles
-\ttl@box=\box51
-\beforetitleunit=\skip59
-\aftertitleunit=\skip60
-\ttl@plus=\dimen149
-\ttl@minus=\dimen150
+\ttl@box=\box52
+\beforetitleunit=\skip60
+\aftertitleunit=\skip61
+\ttl@plus=\dimen150
+\ttl@minus=\dimen151
 \ttl@toksa=\toks21
-\titlewidth=\dimen151
-\titlewidthlast=\dimen152
-\titlewidthfirst=\dimen153
+\titlewidth=\dimen152
+\titlewidthlast=\dimen153
+\titlewidthfirst=\dimen154
 )
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3ke
-ys2e.sty
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2024-01-04 L3 programming layer (loader) 
-
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
-ex.def
-File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count199
-\l__pdf_internal_box=\box52
-))
-Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
-)
-Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count266
-\l__lipsum_a_int=\count267
-\l__lipsum_b_int=\count268
-
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
-Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 )
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
-g
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 107.
+Package graphics Info: Driver file: pdftex.def on input line 106.
 
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
-File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen154
-\Gin@req@width=\dimen155
+\Gin@req@height=\dimen155
+\Gin@req@width=\dimen156
 )
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
 
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen156
-\captionmargin=\dimen157
-\caption@leftmargin=\dimen158
-\caption@rightmargin=\dimen159
-\caption@width=\dimen160
-\caption@indent=\dimen161
-\caption@parindent=\dimen162
-\caption@hangindent=\dimen163
+\caption@tempdima=\dimen157
+\captionmargin=\dimen158
+\caption@leftmargin=\dimen159
+\caption@rightmargin=\dimen160
+\caption@width=\dimen161
+\caption@indent=\dimen162
+\caption@parindent=\dimen163
+\caption@hangindent=\dimen164
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count269
-\c@continuedfloat=\count270
+\c@caption@flags=\count272
+\c@continuedfloat=\count273
 )
 Package caption Info: New subtype `subfigure' on input line 238.
-\c@subfigure=\count271
+\c@subfigure=\count274
 Package caption Info: New subtype `subtable' on input line 238.
-\c@subtable=\count272
-)
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2023/05/13 v2.17o AMS math features
-\@mathmargin=\skip61
+\c@subtable=\count275
+) (C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2024/05/23 v2.17q AMS math features
+\@mathmargin=\skip62
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks22
-\ex@=\dimen164
+\ex@=\dimen165
 ))
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen165
+\pmbraise@=\dimen166
 )
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count273
-LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count274
-\leftroot@=\count275
-LaTeX Info: Redefining \overline on input line 399.
-LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count276
-\DOTSCASE@=\count277
-LaTeX Info: Redefining \ldots on input line 496.
-LaTeX Info: Redefining \dots on input line 499.
-LaTeX Info: Redefining \cdots on input line 620.
+\inf@bad=\count276
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count277
+\leftroot@=\count278
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count279
+\DOTSCASE@=\count280
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
 \Mathstrutbox@=\box53
 \strutbox@=\box54
-LaTeX Info: Redefining \big on input line 722.
-LaTeX Info: Redefining \Big on input line 723.
-LaTeX Info: Redefining \bigg on input line 724.
-LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen166
-LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count278
-LaTeX Info: Redefining \bmod on input line 905.
-LaTeX Info: Redefining \pmod on input line 910.
-LaTeX Info: Redefining \smash on input line 940.
-LaTeX Info: Redefining \relbar on input line 970.
-LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count279
-\dotsspace@=\muskip16
-\c@parentequation=\count280
-\dspbrk@lvl=\count281
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen167
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count281
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count282
+\dotsspace@=\muskip17
+\c@parentequation=\count283
+\dspbrk@lvl=\count284
 \tag@help=\toks23
-\row@=\count282
-\column@=\count283
-\maxfields@=\count284
+\row@=\count285
+\column@=\count286
+\maxfields@=\count287
 \andhelp@=\toks24
-\eqnshift@=\dimen167
-\alignsep@=\dimen168
-\tagshift@=\dimen169
-\tagwidth@=\dimen170
-\totwidth@=\dimen171
-\lineht@=\dimen172
+\eqnshift@=\dimen168
+\alignsep@=\dimen169
+\tagshift@=\dimen170
+\tagwidth@=\dimen171
+\totwidth@=\dimen172
+\lineht@=\dimen173
 \@envbody=\toks25
-\multlinegap=\skip62
-\multlinetaggap=\skip63
+\multlinegap=\skip63
+\multlinetaggap=\skip64
 \mathdisplay@stack=\toks26
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
@@ -232,28 +211,32 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
 LaTeX Font Info:    Trying to load font information for OT1+phv on input line 4
-6.
-
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1phv.fd
+1.
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
-(C:/Users\User\Documents\GitHub\EPVoteMonitor\auxil\TS3162942.aux)
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count288
+\l__pdf_internal_box=\box55
+) (C:/Users\aleks\Documents\GitHub\EPVoteMonitor\auxil\TS3162942.aux)
 \openout1 = `TS3162942.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -290,113 +273,118 @@ LaTeX Font Info:    ... okay on input line 46.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
-i
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count285
-\scratchdimen=\dimen173
-\scratchbox=\box55
-\nofMPsegments=\count286
-\nofMParguments=\count287
+\scratchcounter=\count289
+\scratchdimen=\dimen174
+\scratchbox=\box56
+\nofMPsegments=\count290
+\nofMParguments=\count291
 \everyMPshowfont=\toks27
-\MPscratchCnt=\count288
-\MPscratchDim=\dimen174
-\MPnumerator=\count289
-\makeMPintoPDFobject=\count290
+\MPscratchCnt=\count292
+\MPscratchDim=\dimen175
+\MPnumerator=\count293
+\makeMPintoPDFobject=\count294
 \everyMPtoPDFconversion=\toks28
 )
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
-se.sty
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cf
-g
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
- (C:/Users\User\Documents\GitHub\EPVoteMonitor\auxil\TS3162942.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
 
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
+Chapter 1.
 
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-C:/Users\User\Documents\GitHub\EPVoteMonitor\auxil\TS3162942.toc:21: Misplaced 
-alignment tab character &.
-<argument> ...5.1}Reproduction of results in Hix &
-                                                   Noury 2009
-l.21 ...tion of results in Hix & Noury 2009}{16}{}
-                                                  %
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
+Overfull \hbox (4.25334pt too wide) in paragraph at lines 59--66
+[]\OT1/phv/m/n/12 When the Vote-Watch project con-cluded, the In-sti-tute in-he
+r-ited its sub-stan-tial dataset,
+ []
+
+
 
 [1
 
 
-{C:/Users/User/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/User/
-AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}])
-\tf@toc=\write3
-\openout3 = `TS3162942.toc'.
+{C:/Users/aleks/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/alek
+s/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 8
+3.
 
- [2]
-Chapter 1.
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 6
-2.
-(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
-<Graphs/short_table9.png, id=10, 574.5465pt x 258.2448pt>
+<Graphs/short_table9.png, id=7, 574.5465pt x 258.2448pt>
 File: Graphs/short_table9.png Graphic file (type png)
 <use Graphs/short_table9.png>
-Package pdftex.def Info: Graphs/short_table9.png  used on input line 68.
+Package pdftex.def Info: Graphs/short_table9.png  used on input line 89.
 (pdftex.def)             Requested size: 455.24411pt x 204.62585pt.
-<Graphs/Datapoints.png, id=12, 965.0454pt x 909.3975pt>
+<Graphs/Datapoints.png, id=9, 965.0454pt x 909.3975pt>
 File: Graphs/Datapoints.png Graphic file (type png)
 <use Graphs/Datapoints.png>
-Package pdftex.def Info: Graphs/Datapoints.png  used on input line 77.
+Package pdftex.def Info: Graphs/Datapoints.png  used on input line 98.
 (pdftex.def)             Requested size: 364.19667pt x 343.18793pt.
 
-[3
 
- <./Graphs/short_table9.png>] [4 <./Graphs/Datapoints.png>] [5]
+[2 <./Graphs/short_table9.png>]
+
+[3 <./Graphs/Datapoints.png>]
+
+[4]
 Chapter 2.
-[6
 
-] [7] [8]
+
+[5
+
+]
+
+[6]
+
+[7]
 Chapter 3.
-[9
 
-] [10]
+
+[8
+
+]
+
+[9]
 Chapter 4.
-[11
+LaTeX Font Info:    Trying to load font information for U+msa on input line 386
+.
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 386
+.
 
-] [12] [13] [14] [15] [16]
+(C:\Users\aleks\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+[10
+
+]
+
+[11]
+
+[12]
+
+[13]
+
+[14]
+
+[15]
 Chapter 5.
-TS3162942.tex:569: Misplaced alignment tab character &.
-<argument> Reproduction of results in Hix &
-                                            Noury 2009
-l.569 ...roduction of results in Hix & Noury 2009}
-                                                  \label{sec:reproduction-of...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-TS3162942.tex:571: Misplaced alignment tab character &.
-l.571 ... EP6 to EP9. The publications where Hix &
+TS3162942.tex:610: Misplaced alignment tab character &.
+l.610 ... EP6 to EP9. The publications where Hix &
                                                    Noury
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -405,55 +393,47 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-TS3162942.tex:573: Misplaced alignment tab character &.
-l.573 ...P6 (later publications, like Hix, Noury &
-                                                   Rolland (2018) do
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
 
-[17
+
+[16
 
 ]
 
-TS3162942.tex:599: LaTeX Error: Unknown float option `H'.
+TS3162942.tex:638: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.599     \begin{figure}[H]
-                           
+l.638                 \begin{figure}[H]
+                                       
 Option `H' ignored and `p' used.
 
-<Graphs/Screenshot 2024-06-09 220607.png, id=71, 542.025pt x 478.78876pt>
+<Graphs/Screenshot 2024-06-09 220607.png, id=68, 542.025pt x 478.78876pt>
 File: Graphs/Screenshot 2024-06-09 220607.png Graphic file (type png)
 <use Graphs/Screenshot 2024-06-09 220607.png>
 Package pdftex.def Info: Graphs/Screenshot 2024-06-09 220607.png  used on input
- line 601.
+ line 640.
 (pdftex.def)             Requested size: 295.90588pt x 261.3913pt.
 
-TS3162942.tex:626: LaTeX Error: Unknown float option `H'.
+TS3162942.tex:665: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.626     \begin{figure}[H]
-                           
+l.665                 \begin{figure}[H]
+                                       
 Option `H' ignored and `p' used.
 
-<Graphs/WNOMINATE2d.png, id=72, 578.16pt x 578.16pt>
+<Graphs/WNOMINATE2d.png, id=69, 578.16pt x 578.16pt>
 File: Graphs/WNOMINATE2d.png Graphic file (type png)
 <use Graphs/WNOMINATE2d.png>
-Package pdftex.def Info: Graphs/WNOMINATE2d.png  used on input line 628.
+Package pdftex.def Info: Graphs/WNOMINATE2d.png  used on input line 667.
 (pdftex.def)             Requested size: 295.90588pt x 295.8987pt.
-TS3162942.tex:635: Undefined control sequence.
-l.635     \susbection
-                     {Comparison of results}
+TS3162942.tex:674: Undefined control sequence.
+l.674                 \susbsection
+                                  {Comparison of results}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -461,26 +441,29 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-TS3162942.tex:646: LaTeX Error: Unknown float option `H'.
+TS3162942.tex:685: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.646     \begin{figure}[H]
-                           
+l.685                 \begin{figure}[H]
+                                       
 Option `H' ignored and `p' used.
 
-<Graphs/WNOMINATEflipped2d.png, id=73, 578.16pt x 578.16pt>
+<Graphs/WNOMINATEflipped2d.png, id=70, 578.16pt x 578.16pt>
 File: Graphs/WNOMINATEflipped2d.png Graphic file (type png)
 <use Graphs/WNOMINATEflipped2d.png>
-Package pdftex.def Info: Graphs/WNOMINATEflipped2d.png  used on input line 648.
+Package pdftex.def Info: Graphs/WNOMINATEflipped2d.png  used on input line 687.
 
 (pdftex.def)             Requested size: 295.90588pt x 295.8987pt.
-[18] [19 <./Graphs/Screenshot 2024-06-09 220607.png> <./Graphs/WNOMINATE2d.png>
-]
-TS3162942.tex:675: Misplaced alignment tab character &.
-l.675 ...on of the workflow that was used in Hix &
+
+
+[17]
+
+[18 <./Graphs/Screenshot 2024-06-09 220607.png> <./Graphs/WNOMINATE2d.png>]
+TS3162942.tex:714: Misplaced alignment tab character &.
+l.714 ...on of the workflow that was used in Hix &
                                                    Nouury (2009). This
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -490,314 +473,323 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-TS3162942.tex:691: LaTeX Error: Unknown float option `H'.
+TS3162942.tex:731: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.691     \begin{figure}[H]
-                           
+l.731             \begin{figure}[H]
+                                   
 Option `H' ignored and `p' used.
 
-<Graphs/ScatterWNOMINATE_6.png, id=83, 578.16pt x 578.16pt>
+<Graphs/ScatterWNOMINATE_6.png, id=79, 578.16pt x 578.16pt>
 File: Graphs/ScatterWNOMINATE_6.png Graphic file (type png)
 <use Graphs/ScatterWNOMINATE_6.png>
-Package pdftex.def Info: Graphs/ScatterWNOMINATE_6.png  used on input line 693.
+Package pdftex.def Info: Graphs/ScatterWNOMINATE_6.png  used on input line 733.
 
 (pdftex.def)             Requested size: 295.90588pt x 295.8987pt.
 
-TS3162942.tex:698: LaTeX Error: Unknown float option `H'.
+TS3162942.tex:738: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.698     \begin{figure}[H]
-                           
+l.738             \begin{figure}[H]
+                                   
 Option `H' ignored and `p' used.
 
-<Graphs/ScatterWNOMINATE_7.png, id=84, 578.16pt x 578.16pt>
+<Graphs/ScatterWNOMINATE_7.png, id=80, 578.16pt x 578.16pt>
 File: Graphs/ScatterWNOMINATE_7.png Graphic file (type png)
 <use Graphs/ScatterWNOMINATE_7.png>
-Package pdftex.def Info: Graphs/ScatterWNOMINATE_7.png  used on input line 702.
+Package pdftex.def Info: Graphs/ScatterWNOMINATE_7.png  used on input line 742.
 
 (pdftex.def)             Requested size: 218.51521pt x 218.5121pt.
-<Graphs/ScatterWNOMINATE_8.png, id=85, 578.16pt x 578.16pt>
+<Graphs/ScatterWNOMINATE_8.png, id=81, 578.16pt x 578.16pt>
 File: Graphs/ScatterWNOMINATE_8.png Graphic file (type png)
 <use Graphs/ScatterWNOMINATE_8.png>
-Package pdftex.def Info: Graphs/ScatterWNOMINATE_8.png  used on input line 709.
+Package pdftex.def Info: Graphs/ScatterWNOMINATE_8.png  used on input line 749.
 
 (pdftex.def)             Requested size: 218.51521pt x 218.5121pt.
-[20] [21 <./Graphs/WNOMINATEflipped2d.png> <./Graphs/ScatterWNOMINATE_6.png>]
 
-TS3162942.tex:747: LaTeX Error: Unknown float option `H'.
+
+[19]
+
+[20 <./Graphs/WNOMINATEflipped2d.png> <./Graphs/ScatterWNOMINATE_6.png>]
+
+TS3162942.tex:796: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.747     \begin{figure}[H]
-                           
+l.796                 \begin{figure}[H]
+                                       
 Option `H' ignored and `p' used.
 
-<Graphs/ScatterEMWNOMINATE_7_EPG_S&D.png, id=94, 578.16pt x 578.16pt>
+<Graphs/ScatterEMWNOMINATE_7_EPG_S&D.png, id=91, 578.16pt x 578.16pt>
 File: Graphs/ScatterEMWNOMINATE_7_EPG_S&D.png Graphic file (type png)
 <use Graphs/ScatterEMWNOMINATE_7_EPG_S&D.png>
 Package pdftex.def Info: Graphs/ScatterEMWNOMINATE_7_EPG_S&D.png  used on input
- line 751.
+ line 800.
 (pdftex.def)             Requested size: 218.51521pt x 218.5121pt.
-<Graphs/ScatterEMWNOMINATE_8_EPG_ALDE.png, id=95, 578.16pt x 578.16pt>
+<Graphs/ScatterEMWNOMINATE_8_EPG_ALDE.png, id=92, 578.16pt x 578.16pt>
 File: Graphs/ScatterEMWNOMINATE_8_EPG_ALDE.png Graphic file (type png)
 <use Graphs/ScatterEMWNOMINATE_8_EPG_ALDE.png>
 Package pdftex.def Info: Graphs/ScatterEMWNOMINATE_8_EPG_ALDE.png  used on inpu
-t line 758.
+t line 807.
 (pdftex.def)             Requested size: 218.51521pt x 218.5121pt.
-TS3162942.tex:762: Misplaced alignment tab character &.
-<argument> ...oints in EP7 and EP8 for ALDE and S&
-                                                  D
-l.762 ...l points in EP7 and EP8 for ALDE and S&D}
-                                                  
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
 
-TS3162942.tex:762: Misplaced alignment tab character &.
-<argument> ...oints in EP7 and EP8 for ALDE and S&
-                                                  D
-l.762 ...l points in EP7 and EP8 for ALDE and S&D}
-                                                  
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-
-TS3162942.tex:766: LaTeX Error: Unknown float option `H'.
+TS3162942.tex:816: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.766     \begin{figure}[H]
-                           
+l.816                 \begin{figure}[H]
+                                       
 Option `H' ignored and `p' used.
 
-<Graphs/ScatterEMWNOMINATE_7_EPG_EPP.png, id=96, 578.16pt x 578.16pt>
+<Graphs/ScatterEMWNOMINATE_7_EPG_EPP.png, id=93, 578.16pt x 578.16pt>
 File: Graphs/ScatterEMWNOMINATE_7_EPG_EPP.png Graphic file (type png)
 <use Graphs/ScatterEMWNOMINATE_7_EPG_EPP.png>
 Package pdftex.def Info: Graphs/ScatterEMWNOMINATE_7_EPG_EPP.png  used on input
- line 770.
+ line 820.
 (pdftex.def)             Requested size: 218.51521pt x 218.5121pt.
-<Graphs/ScatterEMWNOMINATE_8_EPG_EPP.png, id=97, 578.16pt x 578.16pt>
+<Graphs/ScatterEMWNOMINATE_8_EPG_EPP.png, id=94, 578.16pt x 578.16pt>
 File: Graphs/ScatterEMWNOMINATE_8_EPG_EPP.png Graphic file (type png)
 <use Graphs/ScatterEMWNOMINATE_8_EPG_EPP.png>
 Package pdftex.def Info: Graphs/ScatterEMWNOMINATE_8_EPG_EPP.png  used on input
- line 777.
+ line 827.
 (pdftex.def)             Requested size: 218.51521pt x 218.5121pt.
 
-TS3162942.tex:799: LaTeX Error: Unknown float option `H'.
+TS3162942.tex:853: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.799     \begin{figure}[H]
-                           
+l.853                 \begin{figure}[H]
+                                       
 Option `H' ignored and `p' used.
 
-<Graphs/missingvsdiff7.png, id=98, 361.35pt x 361.35pt>
+<Graphs/missingvsdiff7.png, id=95, 361.35pt x 361.35pt>
 File: Graphs/missingvsdiff7.png Graphic file (type png)
 <use Graphs/missingvsdiff7.png>
-Package pdftex.def Info: Graphs/missingvsdiff7.png  used on input line 803.
+Package pdftex.def Info: Graphs/missingvsdiff7.png  used on input line 857.
 (pdftex.def)             Requested size: 218.51521pt x 218.51543pt.
-<Graphs/missingvsdiff8.png, id=99, 361.35pt x 361.35pt>
+<Graphs/missingvsdiff8.png, id=96, 361.35pt x 361.35pt>
 File: Graphs/missingvsdiff8.png Graphic file (type png)
 <use Graphs/missingvsdiff8.png>
-Package pdftex.def Info: Graphs/missingvsdiff8.png  used on input line 810.
+Package pdftex.def Info: Graphs/missingvsdiff8.png  used on input line 864.
 (pdftex.def)             Requested size: 218.51521pt x 218.51543pt.
-[22] [23 <./Graphs/ScatterWNOMINATE_7.png> <./Graphs/ScatterWNOMINATE_8.png> <.
-/Graphs/ScatterEMWNOMINATE_7_EPG_S&D.png> <./Graphs/ScatterEMWNOMINATE_8_EPG_AL
-DE.png>] [24 <./Graphs/ScatterEMWNOMINATE_7_EPG_EPP.png> <./Graphs/ScatterEMWNO
-MINATE_8_EPG_EPP.png> <./Graphs/missingvsdiff7.png> <./Graphs/missingvsdiff8.pn
+
+
+[21]
+
+[22 <./Graphs/ScatterWNOMINATE_7.png> <./Graphs/ScatterWNOMINATE_8.png> <./Grap
+hs/ScatterEMWNOMINATE_7_EPG_S&D.png> <./Graphs/ScatterEMWNOMINATE_8_EPG_ALDE.pn
 g>]
 
-TS3162942.tex:884: LaTeX Error: Unknown float option `H'.
+[23 <./Graphs/ScatterEMWNOMINATE_7_EPG_EPP.png> <./Graphs/ScatterEMWNOMINATE_8_
+EPG_EPP.png> <./Graphs/missingvsdiff7.png> <./Graphs/missingvsdiff8.png>]
+
+TS3162942.tex:957: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.884     \begin{figure}[H]
-                           
+l.957                 \begin{figure}[H]
+                                       
 Option `H' ignored and `p' used.
 
-<Graphs/ScatterEMEIGEN6.png, id=117, 578.16pt x 578.16pt>
+<Graphs/ScatterEMEIGEN6.png, id=114, 578.16pt x 578.16pt>
 File: Graphs/ScatterEMEIGEN6.png Graphic file (type png)
 <use Graphs/ScatterEMEIGEN6.png>
-Package pdftex.def Info: Graphs/ScatterEMEIGEN6.png  used on input line 888.
+Package pdftex.def Info: Graphs/ScatterEMEIGEN6.png  used on input line 961.
 (pdftex.def)             Requested size: 218.51521pt x 218.5121pt.
-<Graphs/ScatterEMEIGEN9.png, id=118, 578.16pt x 578.16pt>
+<Graphs/ScatterEMEIGEN9.png, id=115, 578.16pt x 578.16pt>
 File: Graphs/ScatterEMEIGEN9.png Graphic file (type png)
 <use Graphs/ScatterEMEIGEN9.png>
-Package pdftex.def Info: Graphs/ScatterEMEIGEN9.png  used on input line 895.
+Package pdftex.def Info: Graphs/ScatterEMEIGEN9.png  used on input line 968.
 (pdftex.def)             Requested size: 218.51521pt x 218.5121pt.
 
-TS3162942.tex:902: LaTeX Error: Unknown float option `H'.
+TS3162942.tex:976: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.902     \begin{figure}[H]
-                           
+l.976                 \begin{figure}[H]
+                                       
 Option `H' ignored and `p' used.
 
-<Graphs/ScatterEMEIGEN7.png, id=119, 578.16pt x 578.16pt>
+<Graphs/ScatterEMEIGEN7.png, id=116, 578.16pt x 578.16pt>
 File: Graphs/ScatterEMEIGEN7.png Graphic file (type png)
 <use Graphs/ScatterEMEIGEN7.png>
-Package pdftex.def Info: Graphs/ScatterEMEIGEN7.png  used on input line 906.
+Package pdftex.def Info: Graphs/ScatterEMEIGEN7.png  used on input line 980.
 (pdftex.def)             Requested size: 218.51521pt x 218.5121pt.
-<Graphs/ScatterEMEIGEN8.png, id=120, 578.16pt x 578.16pt>
+<Graphs/ScatterEMEIGEN8.png, id=117, 578.16pt x 578.16pt>
 File: Graphs/ScatterEMEIGEN8.png Graphic file (type png)
 <use Graphs/ScatterEMEIGEN8.png>
-Package pdftex.def Info: Graphs/ScatterEMEIGEN8.png  used on input line 913.
+Package pdftex.def Info: Graphs/ScatterEMEIGEN8.png  used on input line 987.
 (pdftex.def)             Requested size: 218.51521pt x 218.5121pt.
 
-TS3162942.tex:920: LaTeX Error: Unknown float option `H'.
+TS3162942.tex:995: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.920     \begin{figure}[H]
-                           
+l.995                 \begin{figure}[H]
+                                       
 Option `H' ignored and `p' used.
 
-<Graphs/ScatterEMEIGEN_7_EPG_EPP.png, id=121, 578.16pt x 578.16pt>
+<Graphs/ScatterEMEIGEN_7_EPG_EPP.png, id=118, 578.16pt x 578.16pt>
 File: Graphs/ScatterEMEIGEN_7_EPG_EPP.png Graphic file (type png)
 <use Graphs/ScatterEMEIGEN_7_EPG_EPP.png>
 Package pdftex.def Info: Graphs/ScatterEMEIGEN_7_EPG_EPP.png  used on input lin
-e 924.
+e 999.
 (pdftex.def)             Requested size: 218.51521pt x 218.5121pt.
-<Graphs/ScatterEMEIGEN_8_EPG_EPP.png, id=122, 578.16pt x 578.16pt>
+<Graphs/ScatterEMEIGEN_8_EPG_EPP.png, id=119, 578.16pt x 578.16pt>
 File: Graphs/ScatterEMEIGEN_8_EPG_EPP.png Graphic file (type png)
 <use Graphs/ScatterEMEIGEN_8_EPG_EPP.png>
 Package pdftex.def Info: Graphs/ScatterEMEIGEN_8_EPG_EPP.png  used on input lin
-e 931.
+e 1006.
 (pdftex.def)             Requested size: 218.51521pt x 218.5121pt.
 
-TS3162942.tex:939: LaTeX Error: Unknown float option `H'.
+TS3162942.tex:1015: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.939     \begin{figure}[H]
-                           
+l.1015                 \begin{figure}[H]
+                                        
 Option `H' ignored and `p' used.
 
-<Graphs/ScatterEMEIGEN_7_EPG_S&D.png, id=123, 578.16pt x 578.16pt>
+<Graphs/ScatterEMEIGEN_7_EPG_S&D.png, id=120, 578.16pt x 578.16pt>
 File: Graphs/ScatterEMEIGEN_7_EPG_S&D.png Graphic file (type png)
 <use Graphs/ScatterEMEIGEN_7_EPG_S&D.png>
 Package pdftex.def Info: Graphs/ScatterEMEIGEN_7_EPG_S&D.png  used on input lin
-e 943.
+e 1019.
 (pdftex.def)             Requested size: 218.51521pt x 218.5121pt.
-<Graphs/ScatterEMEIGEN_8_EPG_Greens–EFA.png, id=124, 578.16pt x 578.16pt>
+<Graphs/ScatterEMEIGEN_8_EPG_Greens–EFA.png, id=121, 578.16pt x 578.16pt>
 File: Graphs/ScatterEMEIGEN_8_EPG_Greens–EFA.png Graphic file (type png)
 <use Graphs/ScatterEMEIGEN_8_EPG_Greens–EFA.png>
 Package pdftex.def Info: Graphs/ScatterEMEIGEN_8_EPG_Greens–EFA.png  used on 
-input line 950.
+input line 1026.
 (pdftex.def)             Requested size: 218.51521pt x 218.5121pt.
-[25] [26] [27 <./Graphs/ScatterEMEIGEN6.png> <./Graphs/ScatterEMEIGEN9.png> <./
-Graphs/ScatterEMEIGEN7.png> <./Graphs/ScatterEMEIGEN8.png>] [28 <./Graphs/Scatt
-erEMEIGEN_7_EPG_EPP.png> <./Graphs/ScatterEMEIGEN_8_EPG_EPP.png> <./Graphs/Scat
-terEMEIGEN_7_EPG_S&D.png> <./Graphs/ScatterEMEIGEN_8_EPG_Greens–EFA.png>]
-TS3162942.tex:1040: Undefined control sequence.
-l.1040     \susbection
-                      {Obtaining ideal points estimates using PCA}\label{sub...
+
+
+[24]
+
+[25]
+
+[26 <./Graphs/ScatterEMEIGEN6.png> <./Graphs/ScatterEMEIGEN9.png> <./Graphs/Sca
+tterEMEIGEN7.png> <./Graphs/ScatterEMEIGEN8.png>]
+
+[27 <./Graphs/ScatterEMEIGEN_7_EPG_EPP.png> <./Graphs/ScatterEMEIGEN_8_EPG_EPP.
+png> <./Graphs/ScatterEMEIGEN_7_EPG_S&D.png> <./Graphs/ScatterEMEIGEN_8_EPG_Gre
+ens–EFA.png>]
+TS3162942.tex:1145: Undefined control sequence.
+l.1145             \susbection
+                              {Obtaining ideal points estimates using PCA}\l...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[29]
 
-TS3162942.tex:1063: LaTeX Error: Unknown float option `H'.
+
+[28]
+
+TS3162942.tex:1178: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1063     \begin{figure}[H]
-                            
+l.1178                 \begin{figure}[H]
+                                        
 Option `H' ignored and `p' used.
 
-<Graphs/Scatterstartspca6.png, id=149, 578.16pt x 578.16pt>
+<Graphs/Scatterstartspca6.png, id=146, 578.16pt x 578.16pt>
 File: Graphs/Scatterstartspca6.png Graphic file (type png)
 <use Graphs/Scatterstartspca6.png>
-Package pdftex.def Info: Graphs/Scatterstartspca6.png  used on input line 1067.
+Package pdftex.def Info: Graphs/Scatterstartspca6.png  used on input line 1182.
 
 (pdftex.def)             Requested size: 218.51521pt x 218.5121pt.
-<Graphs/Scatterstartspca7.png, id=150, 578.16pt x 578.16pt>
+<Graphs/Scatterstartspca7.png, id=147, 578.16pt x 578.16pt>
 File: Graphs/Scatterstartspca7.png Graphic file (type png)
 <use Graphs/Scatterstartspca7.png>
-Package pdftex.def Info: Graphs/Scatterstartspca7.png  used on input line 1074.
+Package pdftex.def Info: Graphs/Scatterstartspca7.png  used on input line 1189.
 
 (pdftex.def)             Requested size: 218.51521pt x 218.5121pt.
 
-TS3162942.tex:1082: LaTeX Error: Unknown float option `H'.
+TS3162942.tex:1197: LaTeX Error: Unknown float option `H'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1082     \begin{figure}[H]
-                            
+l.1197                 \begin{figure}[H]
+                                        
 Option `H' ignored and `p' used.
 
-<Graphs/Scatterstartspca8.png, id=151, 578.16pt x 578.16pt>
+<Graphs/Scatterstartspca8.png, id=148, 578.16pt x 578.16pt>
 File: Graphs/Scatterstartspca8.png Graphic file (type png)
 <use Graphs/Scatterstartspca8.png>
-Package pdftex.def Info: Graphs/Scatterstartspca8.png  used on input line 1086.
+Package pdftex.def Info: Graphs/Scatterstartspca8.png  used on input line 1201.
 
 (pdftex.def)             Requested size: 218.51521pt x 218.5121pt.
-<Graphs/Scatterstartspca9.png, id=152, 578.16pt x 578.16pt>
+<Graphs/Scatterstartspca9.png, id=149, 578.16pt x 578.16pt>
 File: Graphs/Scatterstartspca9.png Graphic file (type png)
 <use Graphs/Scatterstartspca9.png>
-Package pdftex.def Info: Graphs/Scatterstartspca9.png  used on input line 1093.
+Package pdftex.def Info: Graphs/Scatterstartspca9.png  used on input line 1208.
 
 (pdftex.def)             Requested size: 218.51521pt x 218.5121pt.
-[30] [31 <./Graphs/Scatterstartspca6.png> <./Graphs/Scatterstartspca7.png> <./G
-raphs/Scatterstartspca8.png> <./Graphs/Scatterstartspca9.png>]
+
+
+[29]
+
+[30 <./Graphs/Scatterstartspca6.png> <./Graphs/Scatterstartspca7.png> <./Graphs
+/Scatterstartspca8.png> <./Graphs/Scatterstartspca9.png>]
 Chapter 6.
-<Graphs/genderreport.png, id=164, 722.7pt x 722.7pt>
+<Graphs/genderreport.png, id=160, 722.7pt x 722.7pt>
 File: Graphs/genderreport.png Graphic file (type png)
 <use Graphs/genderreport.png>
-Package pdftex.def Info: Graphs/genderreport.png  used on input line 1116.
+Package pdftex.def Info: Graphs/genderreport.png  used on input line 1264.
 (pdftex.def)             Requested size: 295.90588pt x 295.9009pt.
+
+
+[31
+
+]
 <Graphs/proportions_report.png, id=165, 867.24pt x 867.24pt>
 File: Graphs/proportions_report.png Graphic file (type png)
 <use Graphs/proportions_report.png>
-Package pdftex.def Info: Graphs/proportions_report.png  used on input line 1124
+Package pdftex.def Info: Graphs/proportions_report.png  used on input line 1273
 .
 (pdftex.def)             Requested size: 295.90588pt x 295.9031pt.
-[32
 
- <./Graphs/genderreport.png>] [33 <./Graphs/proportions_report.png>]
+
+[32 <./Graphs/genderreport.png>]
+
+[33 <./Graphs/proportions_report.png>]
 Chapter 7.
+No file TS3162942.bbl.
+
+
 [34
 
-] (C:/Users\User\Documents\GitHub\EPVoteMonitor\auxil\TS3162942.aux)
+] (C:/Users\aleks\Documents\GitHub\EPVoteMonitor\auxil\TS3162942.aux)
  ***********
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-04>
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-08-30>
  ***********
 
 
@@ -805,27 +797,28 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 6067 strings out of 474486
- 108790 string characters out of 5744227
- 1937542 words of memory out of 5000000
- 28285 multiletter control sequences out of 15000+600000
+ 5622 strings out of 473899
+ 97952 string characters out of 5726499
+ 484094 words of memory out of 5000000
+ 28444 multiletter control sequences out of 15000+600000
  574039 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,9n,93p,287b,499s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-mex10.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmmi12.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmmi8.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmr12.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/User/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/User/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/User/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/User/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/U
-sers/User/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:
-/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on C:/Users\User\Documents\GitHub\EPVoteMonitor\out\TS3162942.pd
-f (34 pages, 5661132 bytes).
+ 67i,9n,77p,307b,499s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/aleks/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmex10.pfb><C:/Users/aleks/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmi12.pfb><C:/Users/aleks/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi8.pfb><C:/Users/aleks/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/aleks/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/aleks/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/aleks/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/aleks/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/
+aleks/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.
+pfb><C:/Users/aleks/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb
+8a.pfb><C:/Users/aleks/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/u
+hvr8a.pfb>
+Output written on C:/Users\aleks\Documents\GitHub\EPVoteMonitor\out\TS3162942.p
+df (34 pages, 5664408 bytes).
 PDF statistics:
  224 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

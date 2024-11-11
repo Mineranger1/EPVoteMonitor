@@ -1,0 +1,53 @@
+
+\documentclass[a4paper,12pt]{report}
+
+% Page setup
+\usepackage[utf8]{inputenc} % UTF-8 encoding
+\usepackage{geometry} % For customizing page layout
+\usepackage{fancyhdr} % For custom headers
+\usepackage{setspace} % For line spacing
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+% Page dimensions
+\geometry{
+    top=2.5cm,
+    bottom=2.5cm,
+    left=2.5cm,
+    right=2.5cm
+}
+
+% Line spacing
+\onehalfspacing
+
+% Set font to Arial, Tahoma, or Verdana
+\renewcommand{\rmdefault}{phv} % Arial font
+\renewcommand{\sfdefault}{phv} % Arial sans-serif font
+
+% Title formatting (for custom sections)
+\titleformat{\chapter}[block]{\normalfont\LARGE\bfseries}{\thechapter}{1em}{}
+
+% Custom page number settings
+\pagestyle{plain} % No header
+\pagenumbering{arabic} % Page numbering starting at 1
+
+% Custom section and subsection formatting
+\titleformat{\section}[block]{\normalfont\large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}[block]{\normalfont\normalsize\bfseries}{\thesubsection}{1em}{}
+
+\begin{document}
+
+\chapter{Introduction}
+
+This is a test document. Here is a citation \cite{samplebook}.
+
+\chapter{Data Cleaning Process}
+
+% Bibliography inclusion
+\nocite{*}
+\bibliographystyle{plain}
+\bibliography{thesis}  % Replace with the correct path to your .bib file
+
+\end{document}

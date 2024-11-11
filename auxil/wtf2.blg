@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: wtf2.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+Database file #1: thesis.bib
+Warning--empty journal in imai_2024_package
+You've used 13 entries,
+            2118 wiz_defined-function locations,
+            575 strings with 5628 characters,
+and the built_in function-call counts, 3692 in all, are:
+= -- 348
+> -- 170
+< -- 0
++ -- 69
+- -- 54
+* -- 247
+:= -- 644
+add.period$ -- 36
+call.type$ -- 13
+change.case$ -- 66
+chr.to.int$ -- 0
+cite$ -- 14
+duplicate$ -- 129
+empty$ -- 301
+format.name$ -- 54
+if$ -- 757
+int.to.chr$ -- 0
+int.to.str$ -- 13
+missing$ -- 10
+newline$ -- 65
+num.names$ -- 26
+pop$ -- 67
+preamble$ -- 1
+purify$ -- 53
+quote$ -- 0
+skip$ -- 97
+stack$ -- 0
+substring$ -- 211
+swap$ -- 12
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 52
+warning$ -- 1
+while$ -- 34
+width$ -- 15
+write$ -- 133
+(There was 1 warning)
